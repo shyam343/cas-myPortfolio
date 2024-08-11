@@ -14,4 +14,4 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Hosting
-Hosted on GitHub Pages at [https://username.github.io](https://username.github.io).
+Hosted on GitHub Pages at [https://username.github.io](https://shyam343.github.io).
